@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple blog built with Rails.
 
-Things you may want to cover:
+Tutorial used: https://www.youtube.com/watch?v=BI_VnnOLSKY&index=2&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&ab_channel=MackenzieChild
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Heroku: https://rails-blog-lopushin.herokuapp.com/about
